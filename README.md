@@ -1,6 +1,6 @@
 # README — Project Notebook Navigation Guide
 
-This document provides a **navigation guide** for the Jupyter Notebook **"Code_Geass_final_merged.ipynb"** used in this project and is  located at **/Notebook folder**.  
+This document provides a **navigation guide** for the Jupyter Notebook **"Code_Geass_final_merged.ipynb"** used in this project and is  located at **/Notebook folder**.You can find entire Zip file in this link https://drive.google.com/file/d/14tCQb5LB0gRPEHhg0SuItHRUx4b42QEF/view?usp=sharing .  
 
 ## Folder Contents
 
@@ -130,3 +130,4 @@ Each model follows a similar structure:
 - **Key Observations** and **Conclusion** sections provide a condensed view of findings without reading through the entire notebook.
 
 ---
+
